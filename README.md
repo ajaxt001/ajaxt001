@@ -12,9 +12,7 @@ For the past number of years i have been updating the skill utilizing training a
     Examaples but not all inclusive.
       - Low code (no-code) development with APEX
       - SQL Server development and administration
-      - Data Cleansing
-      - Data modeling
-      - Data Visualization (M language and DAX)
+      - Data Cleansing, Data modeling and Data Visualization (M language and DAX) POWER BI
       
 On the IBM i platform I have an account on PUB400 and work on improving my development skills watching and working through vidoes hosted by [Liam Sofor](https://github.com/worksofliam) a leading proponent of open source system (OSS) on IBM I, [#yusy4code ](https://www.youtube.com/hashtag/yusy4code) a leading developer of NODE J (OSS) applications on IBM i. 
 
